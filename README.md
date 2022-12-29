@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @morpinma-wing
-- 👀 I’m interested in web-development, game-development, software-development
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web-development, game-development, data-related project
+- 💞️ I’m looking to collaborate on any kind of data-related project.
 - 📫 How to reach me morpinma@berkeley.com
 
 <!---
